@@ -1,6 +1,4 @@
-Sure! Here's a `README.md` file for your Library Management System project, including a section on your motivation for understanding the power of coding.
 
-```markdown
 # Library Management System
 
 ## Overview
